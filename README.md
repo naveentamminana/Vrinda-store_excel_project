@@ -1,0 +1,1 @@
+Executed an Excel Analysis with Dashboard project, providing a streamlined and insightful data visualization solution. This project enhanced data-driven decision-making capabilities by consolidating from income ,education,region and marital status into an easily accessible and interactive dashboard.
